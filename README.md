@@ -1,4 +1,4 @@
-# cuda-practical
+# CUDA Practical
 Some nice cuda practical
 
 You can find here :
